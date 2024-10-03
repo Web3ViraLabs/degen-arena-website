@@ -23,11 +23,11 @@
 <path d="M101.211 54.2497L97.7135 55.3894L94.2011 57.9094L90.5766 55.5537L93.8854 56.4403L96.8074 54.8004L99.3984 53.0719L101.414 50.8431L101.211 54.2497Z" fill="#262626"/>
 <circle cx="62.6218" cy="65.0467" r="18.8571" fill="#262626"/>
 <circle cx="62.6218" cy="62.0467" r="17.6" fill="#DD932B" stroke="#A06A15" stroke-width="2.51429"/>
-<rect x="53.8208" y="54.5038" width="6.28571" height="6.28571" fill="#FDDD2D"/>
-<rect x="63.8784" y="51.9898" width="6.28571" height="3.77143" fill="#FDDD2D"/>
-<rect x="70.1616" y="51.9898" width="17.6" height="3.77143" transform="rotate(90 70.1616 51.9898)" fill="#FDDD2D"/>
-<rect x="63.8784" y="68.3328" width="6.28571" height="3.77143" fill="#FDDD2D"/>
-<rect x="53.8208" y="63.304" width="6.28571" height="6.28571" fill="#FDDD2D"/>
+<rect x="53.8208" y="54.5038" width="6.28571" height="6.28571" fill="#ffff66"/>
+<rect x="63.8784" y="51.9898" width="6.28571" height="3.77143" fill="#ffff66"/>
+<rect x="70.1616" y="51.9898" width="17.6" height="3.77143" transform="rotate(90 70.1616 51.9898)" fill="#ffff66"/>
+<rect x="63.8784" y="68.3328" width="6.28571" height="3.77143" fill="#ffff66"/>
+<rect x="53.8208" y="63.304" width="6.28571" height="6.28571" fill="#ffff66"/>
 </g>
 <defs>
 <clipPath id="clip0_1029_274">
