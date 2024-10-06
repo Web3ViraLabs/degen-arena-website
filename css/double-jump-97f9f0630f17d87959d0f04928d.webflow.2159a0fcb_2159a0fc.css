@@ -2211,7 +2211,7 @@ textarea.w-select {
 :root {
   --beige: #fffdf4;
   --black: #262626;
-  --orange: #94dea5;
+  --orange: #00070f;
   --dark-puprle: #160e32;
   --white: white;
   --purple: #6551eb;
@@ -2462,7 +2462,7 @@ blockquote {
 
 .section.is--hero {
   z-index: 1;
-  background-color: #6BBF59;
+  background-color: #00070f;
   position: relative;
   overflow: hidden;
 }
@@ -2517,7 +2517,7 @@ blockquote {
 
 .section.is--footer {
   z-index: 1;
-  background-color: #023d54;
+  background-color: #00070f;
   position: relative;
   overflow: hidden;
 }
@@ -5723,7 +5723,7 @@ blockquote {
 }
 
 .transition-color {
-  background-color: #023d54;
+  background-color: #00070f;
   width: 100%;
   height: 100%;
   position: relative;
@@ -6970,7 +6970,7 @@ blockquote {
 }
 
 .button-inside.notch.active {
-  background-color: #ffd634;
+  background-color: #c6ff01;
 }
 
 .button-inside.notch.active:hover {
@@ -6978,7 +6978,7 @@ blockquote {
 }
 
 .button-inside.notch.download {
-  background-color: #ffd634;
+  background-color: #c6ff01;
 }
 
 .button-inside.notch.download:hover {
@@ -6986,7 +6986,7 @@ blockquote {
 }
 
 .button-inside.notch.ft {
-  background-color: #ffd634;
+  background-color: #c6ff01;
 }
 
 .button-inside.notch.ft:hover {
@@ -6994,7 +6994,7 @@ blockquote {
 }
 
 .button-inside.is-orange.notch {
-  background-color: #9a6735;
+  background-color: #00070f;
   padding-top: 1rem;
   padding-bottom: 1rem;
   padding-left: 2rem;
@@ -7002,7 +7002,7 @@ blockquote {
 }
 
 .button-inside.is-dark.notch {
-  background-color: #023d54;
+  background-color: #00070f;
   padding-top: 1rem;
   padding-bottom: 1rem;
   padding-left: 2rem;
