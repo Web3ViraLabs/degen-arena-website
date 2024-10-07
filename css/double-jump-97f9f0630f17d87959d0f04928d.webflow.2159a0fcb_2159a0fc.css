@@ -2231,7 +2231,7 @@ textarea.w-select {
 }
 
 body {
-  background-color: var(--beige);
+  background-color: #00070F;
   color: var(--black);
   font-family: Unbounded, sans-serif;
   font-size: 1vw;
@@ -2251,7 +2251,7 @@ h1 {
 }
 
 h2 {
-  color: var(--black);
+  color: var(--white);
   letter-spacing: 0.02rem;
   text-transform: uppercase;
   margin-top: 0;
@@ -2271,6 +2271,7 @@ h3 {
   font-size: 3.75rem;
   font-weight: 400;
   line-height: 1;
+  color: #fff;
 }
 
 h4 {
@@ -2469,7 +2470,7 @@ blockquote {
 
 .section.is--about {
   z-index: 5;
-  background-color: #fefbf3;
+  background-color: #fffff;
   position: relative;
   overflow: hidden;
 }
@@ -2481,7 +2482,7 @@ blockquote {
 
 .section.is--how-to-play {
   z-index: 1;
-  background-color: #fefbf3;
+  background-color: #00070f;
   position: relative;
   overflow: hidden;
 }
@@ -3141,7 +3142,7 @@ blockquote {
 }
 
 .p--subtitle.is--purple {
-  color: var(--purple);
+  color: #c6ff00;
   font-family: Jura, sans-serif;
   font-weight: 700;
 }
@@ -4753,12 +4754,13 @@ blockquote {
 }
 
 .text-slide-wrapper {
-  background-color: #fefbf3;
+  background-color: #00070f;
   flex-flow: row;
   align-items: center;
   padding-top: 7.5rem;
   padding-bottom: 7.5rem;
   display: flex;
+  color: white;
 }
 
 .text-slide {
@@ -4986,7 +4988,7 @@ blockquote {
 }
 
 .is--purple {
-  color: var(--orange);
+  color: #c6ff00;
 }
 
 .underline-heading {
@@ -7362,7 +7364,7 @@ blockquote {
 }
 
 .p--link.is--purple {
-  color: var(--purple);
+  color: #c6ff00;
   font-family: Jura, sans-serif;
   font-weight: 700;
 }
