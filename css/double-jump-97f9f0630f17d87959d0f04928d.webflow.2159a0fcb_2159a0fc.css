@@ -2231,7 +2231,7 @@ textarea.w-select {
 }
 
 body {
-  background-color: #00070F;
+  background-color: #00070f;
   color: var(--black);
   font-family: Unbounded, sans-serif;
   font-size: 1vw;
@@ -4047,7 +4047,7 @@ blockquote {
 }
 
 .background__fill {
-  background-color: #fefbf3;
+  background-color: #fffff;
   width: 100%;
   height: 100%;
 }
@@ -4476,7 +4476,7 @@ blockquote {
 }
 
 .menu-link {
-  color: var(--white);
+  color: #fff;
   -webkit-text-stroke-width: 1px;
   -webkit-text-stroke-color: var(--black);
   text-shadow: 0 6px 0 var(--black);
@@ -4484,7 +4484,7 @@ blockquote {
 }
 
 .menu-link.is--hover {
-  color: var(--orange);
+  color: #c6ff00;
 }
 
 .social__twt-icon {
@@ -5496,25 +5496,25 @@ blockquote {
   text-shadow: none;
 }
 
-.link-list {
+.link-listt {
   flex-direction: column;
   align-items: flex-start;
   margin-right: auto;
   display: flex;
 }
 
-.h4-link {
+.h4-linkk {
   color: #fff;
   white-space: nowrap;
   font-size: 2.7rem;
   text-decoration: none;
 }
 
-.h4-link.ft {
+.h4-linkk.ftt {
   margin-bottom: 0;
 }
 
-.title-link {
+.title-linkk {
   color: var(--white);
   height: 3rem;
   margin-bottom: 0.5rem;
@@ -6074,7 +6074,7 @@ blockquote {
   left: 0%;
   right: 0%;
   overflow: hidden;
-  background-color: #00070F;
+  background-color: #00070f;
 }
 
 .about-bg-img {
@@ -6988,11 +6988,11 @@ blockquote {
   background-color: #ffff66;
 }
 
-.button-inside.notch.ft {
+.button-inside.notch.ftt {
   background-color: #c6ff01;
 }
 
-.button-inside.notch.ft:hover {
+.button-inside.notch.ftt:hover {
   background-color: #ffff66;
 }
 
@@ -7055,7 +7055,6 @@ blockquote {
 }
 
 .menu-inside {
-  background-color: #000;
   padding: 15px 36px;
 }
 
@@ -8053,7 +8052,7 @@ blockquote {
     padding-top: 0;
   }
 
-  .title-link {
+  .title-linkk {
     height: 3rem;
   }
 
@@ -8813,7 +8812,7 @@ blockquote {
     font-size: 13.4rem;
   }
 
-  .link-list {
+  .link-listt {
     margin-right: 2em;
   }
 
@@ -8956,7 +8955,7 @@ blockquote {
   }
 
   .button-inside.notch.active,
-  .button-inside.notch.ft {
+  .button-inside.notch.ftt {
     width: 10.8rem;
   }
 
@@ -9697,11 +9696,11 @@ blockquote {
     font-size: 8rem;
   }
 
-  .h4-link {
+  .h4-linkk {
     font-size: 2rem;
   }
 
-  .title-link {
+  .title-linkk {
     height: 2.2rem;
   }
 
@@ -10042,7 +10041,7 @@ blockquote {
     display: flex;
   }
 
-  .button-inside.notch.ft {
+  .button-inside.notch.ftt {
     justify-content: center;
     align-items: center;
     width: 100%;
@@ -10854,7 +10853,7 @@ blockquote {
     width: auto;
   }
 
-  .button-inside.notch.ft {
+  .button-inside.notch.ftt {
     display: block;
   }
 
